@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="slick1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/client/lib/slick/slick.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/client/lib/slick/JGN_doc__20110725.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/client/lib/slick/asm-debug-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/client/lib/slick/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/client/lib/slick/lzma.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/client/lib/slick/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/client/lib/slick/lwjgl_util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/client/lib/slick/JGN_20110725.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/client/lib/slick/lwjgl-debug.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/client/lib/slick/IxxFile.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/client/lib/slick/JGN_src__20110725.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/client/lib/slick/lwjgl_test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/client/lib/slick/lwjgl_util_applet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/client/lib/slick/AppleJavaExtensions.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

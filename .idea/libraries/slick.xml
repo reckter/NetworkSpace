@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="slick">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/slick/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick/lwjgl_util_applet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick/lwjgl_util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick/AppleJavaExtensions.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick/slick.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick/lzma.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick/lwjgl-debug.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick/JGN_src__20110725.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick/lwjgl_test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick/IxxFile.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick/JGN_doc__20110725.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick/JGN_20110725.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick/asm-debug-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

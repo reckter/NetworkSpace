@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/kryonet-2.21/java/lib/objenesis-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kryonet-2.21/java/lib/asm-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kryonet-2.21/java/lib/minlog-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kryonet-2.21/java/lib/jsonbeans-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kryonet-2.21/java/lib/kryo-debug-2.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kryonet-2.21/java/lib/reflectasm-1.07.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
